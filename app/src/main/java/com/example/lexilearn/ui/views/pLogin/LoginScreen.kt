@@ -1,7 +1,6 @@
 package com.example.lexilearn.ui.views.pLogin
 
 import androidx.compose.foundation.layout.*
-import androidx.compose.material3.Button
 import androidx.compose.material3.Text
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
@@ -20,7 +19,6 @@ import com.example.lexilearn.ui.components.EmailTextField
 import com.example.lexilearn.ui.components.GradientLogin
 import com.example.lexilearn.ui.components.LoginTextButton
 import com.example.lexilearn.ui.components.PasswordTextField
-import com.example.lexilearn.ui.theme.ctextWhite
 import com.example.lexilearn.ui.theme.ctransTextWhite
 
 @Composable
